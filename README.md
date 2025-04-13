@@ -1,2 +1,4 @@
 # AI-CHATBOT-FOR-COLLEGE-
 Ai Chatbot for college 
+here is the link for my bot
+https://app.netlify.com/claim?utm_source=bolt#eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRfaWQiOiI1aDZmZEstVktNTXZuRjNiRlZUaktfU2JKVGgzNlNfMjJheTlpTHhVX0Q4Iiwic2Vzc2lvbl9pZCI6IjQ1MzQ2ODEyOjQxMjQ5MTgiLCJpYXQiOjE3NDQ1NDAzODR9.wgeHIq7yvlRVOvxAEIVUNHw0w23w2Ljleh9VYJbmD5w
